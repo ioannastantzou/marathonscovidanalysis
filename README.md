@@ -1,0 +1,2 @@
+# marathonscovidanalysis
+Thesis code parts
